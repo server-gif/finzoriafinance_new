@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1090"><defs><pattern id="wave" width="120" height="60" patternUnits="userSpaceOnUse"><path d="M0 30 Q 30 8 60 30 T 120 30" fill="none" stroke="#16385e" stroke-width="1.5"/></pattern></defs><rect width="1920" height="1090" fill="url(#wave)"/></svg>
